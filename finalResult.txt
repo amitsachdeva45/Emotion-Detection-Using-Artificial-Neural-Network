@@ -1,0 +1,4 @@
+
+Type Choosen2 Smiling=0 SHOCKED=0 Folder0
+Type Choosen2 Smiling=58.0 SHOCKED=27.0SAD=1.0 ANGRY=0.5 DISGUIST=2.0 Neutral=9.0 Folder0
+Type Choosen2 Smiling=45.2380952381 SHOCKED=30.7619047619SAD=1.0 ANGRY=0.5 DISGUIST=2.0 Neutral=9.0 Folder0
